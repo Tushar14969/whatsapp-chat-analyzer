@@ -6,3 +6,4 @@ pandas
 emoji
 regex
 pandas
+collections
