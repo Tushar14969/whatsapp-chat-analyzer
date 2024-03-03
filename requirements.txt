@@ -3,7 +3,7 @@ seaborn
 urlextract
 wordcloud
 pandas
-emoji==2.10.1
+emoji==1.6.3
 regex
 pandas
 collection
